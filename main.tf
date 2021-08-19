@@ -41,7 +41,7 @@ variable "api_endpoint" {
 }
 
 variable "organization_name" {
-  default = "default"
+  default = "dCloud"
 }
 
 provider "intersight" {
